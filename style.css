@@ -203,6 +203,11 @@ body {
     margin: 0 5%;
     text-align: center;
 }
+#forquestions {
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+}
 footer {
     background-color: darkgreen;
     padding: 5px 0; 
